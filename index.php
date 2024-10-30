@@ -18,7 +18,7 @@
         <script src="js/reloj.js"></script>
 
     <h2>Formulario</h2>
-    <h1>fghfghfghf23423423423423423423423423</h1>
+    <h1>hola nena</h1>
 
     <form action="insertar.php" method="POST">
         <label for="nombre">Nombre</label>
